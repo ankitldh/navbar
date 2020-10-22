@@ -1,0 +1,32 @@
+ul{
+    list-style-type: none;
+    text-align: right;
+   
+margin-left: 10px;
+margin-right: 10px;
+justify-content: center;
+
+    
+
+}
+li{
+    display: inline;
+    margin-right: 7px;
+    font-size: 20px;
+    color: white;
+    
+}
+.container{
+    border: 1px solid black;
+    justify-content: center;
+    background-color:rgb(41, 68, 71);
+    box-sizing: border-box;
+    box-shadow: -1px 28px 69px 11px rgba(0,0,0,0.58);
+    
+}
+.brand{
+    float: left;
+    font-size: 25px;
+    justify-content: center;
+
+}
